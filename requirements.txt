@@ -1,0 +1,8 @@
+pdfplumber
+pytesseract
+Pillow
+spacy
+requests
+selenium
+webdriver-manager
+reportlab
